@@ -151,6 +151,7 @@ public class UserInterface {
                 System.out.println();
                 break;
             }
+            System.out.println();
         }
     }
 }
